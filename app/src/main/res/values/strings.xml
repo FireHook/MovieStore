@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieStore</string>
+    <string name="menu_item1">Item 1</string>
+    <string name="menu_item2">Item 2</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+</resources>
